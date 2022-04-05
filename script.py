@@ -47,7 +47,7 @@ Being your friend for all these years has been nothing but a blessing.
 I don’t say it often but I just wanted to let you know that you inspire me and I love you! All the best.
 Always.""")
 
-# Q12 continue...
+# Q12 nested withs
 with generic('happy_bday.txt', 'Josiah', 'Remy') as order3, Personalized('Josiah', 'Esther') as order4:
   order4.write("""Happy Birthday!!
 I love you to the moon and back.
